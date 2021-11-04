@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Barlow');
+
+
+/*font-family:
+*/
+
+
+h1, h2, h1, h3, h4 {
+  background-color: #1C7ED6;
+}
+#content {
+  max-width: 960px;
+  margin: 0 auto;
+  
+}
+.home-img:hover{
+  padding: 10px 10px 10px 10px;
+  /*
+    border: solid;
+  */
+  margin: 0 auto;
+  
+}
+
+
+
+.section-grid{
+  padding: 10px 5px 0px 15px;
+ /*
+    border: solid;
+  */
+  margin: 10px;
+}
+
+
+.home-headline{
+  text-align: center;
+  /*
+    border: solid;
+  */
+  padding: 900px 900px 900px 900px;
+  
+}
+.footer{
+ /*
+    border: solid;
+  */
+  padding: 0px 0px 0px 15px;
+  
+  
+  
+}
+
+body{
+  background-color: #D1DBDB;
+}
+nav{
+  color: #396E94;
+  padding: 25px 50px 75px;
+}
+nav a {
+  color: black;
+}
+
+nav a:hover {
+  color: #E7C24F;
+  background-color: #396E94;
+}
+
+#rcorners1 {
+  border-radius: 25px;
+  padding: 20px;
+  height: 15px;
+  text-align: center;
+  
+}
+#rcorners2 {
+  border-radius: 25px;
+  padding: 20px 0px;
+  height: 30px;
+  
+}
+
+
+
