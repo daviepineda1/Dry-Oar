@@ -21,11 +21,20 @@ h1, h2, h1, h3, h4 {
   margin: 0 auto;
   
 }
+
 header {
   align-items: center;
   display: grid;
   grid-template-columns: 110px auto;
 }
+
+
+.logo-box {
+  background-color: white;
+  border: 1px solid #a43312;
+}
+
+
 
 
 .banner-box img {
