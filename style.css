@@ -3,7 +3,10 @@
 
 /*font-family:
 */
-
+p {
+  
+  font-family: "Montserrat";
+}
 
 h1, h2, h1, h3, h4 {
   background-color: #1C7ED6;
@@ -79,7 +82,9 @@ header {
 .home-paragraph-3 {
    grid-column: 1 / 6;
    grid-row: 7 / 8;
+   padding: 1em;
 }
+
 /* picture positioning */
 
 .home-left-img {
@@ -139,6 +144,7 @@ nav ul {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(6em, 1fr));
   margin: 0;
+  font-size: 1.1em;
   
   
 }
