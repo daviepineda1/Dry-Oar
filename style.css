@@ -69,6 +69,19 @@ header {
    grid-column: 4 / 6;
    grid-row: 5 / 7;
 }
+/* picture positioning */
+
+.home-left-img {
+   grid-column: 4 / 6;
+   grid-row: 1 / 3;
+  
+}
+
+.home-right-img {
+   grid-column: 1 / 3;
+   grid-row: 4 / 6;
+  
+}
 
 
 
