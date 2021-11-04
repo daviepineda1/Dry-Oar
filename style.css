@@ -43,6 +43,7 @@ header {
 
 .home-grid {
   display: grid;
+  display: bold;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
   grid-template-rows: repeat(8, 1fr);
   grid-gap: 1em;
