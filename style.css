@@ -32,6 +32,10 @@ h1, h2, h1, h3, h4 {
   grid-template-rows: repeat(8, 1fr);
   
 }
+.home-headline-1 {
+  grid-column: 1 / 4;
+  grid-row: 1 / 2;
+}
 
 
 .section-grid{
