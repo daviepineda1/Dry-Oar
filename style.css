@@ -59,6 +59,17 @@ header {
   grid-row: 4 / 5;
 }
 
+/* text positioning */
+.home-paragraph-1 {
+ grid-column: 2 / 4;
+ grid-row: 2 / 4;
+}
+
+.home-paragraph-2 {
+   grid-column: 4 / 6;
+   grid-row: 5 / 7;
+}
+
 
 
 .section-grid{
