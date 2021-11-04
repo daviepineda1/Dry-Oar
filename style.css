@@ -6,7 +6,7 @@
 p {
   
   font-family: "Montserrat", Lato, Tahoma, "Sans-Serif";
-  font-size: 5px;
+  font-size: 25px;
 }
 
 h1, h2, h1, h3, h4 {
@@ -149,7 +149,7 @@ nav ul {
   list-style: none; /* removes the bullets! */
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(6em, 1fr));
-  padding: 1em;
+  margin: 0;
   
 }
 
