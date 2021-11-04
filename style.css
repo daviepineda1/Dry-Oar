@@ -59,6 +59,11 @@ header {
   grid-row: 4 / 5;
 }
 
+.home-headline-3 {
+  grid-column: 1 / 6;
+  grid-row: 7 / 8;
+}
+
 /* text positioning */
 .home-paragraph-1 {
  grid-column: 2 / 4;
@@ -68,6 +73,11 @@ header {
 .home-paragraph-2 {
    grid-column: 4 / 6;
    grid-row: 5 / 7;
+}
+
+.home-paragraph-3 {
+   grid-column: 1 / 6;
+   grid-row: 7 / 8;
 }
 /* picture positioning */
 
