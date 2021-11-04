@@ -57,16 +57,20 @@ header {
 .home-headline-1 {
   grid-column: 1 / 4;
   grid-row: 1 / 2;
+  font-size: 25px;
 }
 
 .home-headline-2 {
   grid-column: 3 / 6;
   grid-row: 4 / 5;
+  font-size: 25px;
 }
 
 .home-headline-3 {
   grid-column: 1 / 6;
   grid-row: 7 / 8;
+  font-size: 25px;
+  text-align: center;
 }
 
 /* text positioning */
