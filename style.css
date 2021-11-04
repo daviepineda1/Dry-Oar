@@ -149,8 +149,7 @@ nav ul {
   list-style: none; /* removes the bullets! */
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(6em, 1fr));
-  margin: 5em;
-  padding: 5em;
+  padding: 1em;
   
 }
 
