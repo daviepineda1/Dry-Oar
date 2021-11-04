@@ -37,6 +37,17 @@ body {
   background-color: white;
   padding: 1em;
 }
+.banner-box img {
+  width: 100%
+}
+
+.home-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: repeat(8, 1fr);
+  
+}
+
 img {
   max-width: 100%;
 }
