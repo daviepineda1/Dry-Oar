@@ -48,27 +48,17 @@ header {
   grid-gap: 1em;
   
 }
+/* title positioning */
 .home-headline-1 {
   grid-column: 1 / 4;
   grid-row: 1 / 2;
 }
 
-/* title positioning */
-.title-1 {
-  grid-column: 1 / 4;
-  grid-row: 1;
-  
-}
-.title-2 {
+.home-headline-2 {
   grid-column: 3 / 6;
   grid-row: 4 / 5;
-  
 }
-.title-3 {
-  grid-column: 1 / 6;
-  grid-row: 7 / 8;
-  
-}
+
 
 
 .section-grid{
