@@ -51,6 +51,7 @@ header {
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
   grid-template-rows: repeat(8, 1fr);
   grid-gap: 1em;
+  background-color:  #1C7ED6;
   
 }
 /* title positioning */
