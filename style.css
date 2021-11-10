@@ -32,6 +32,10 @@ header {
   grid-template-columns: 110px auto;
   background-color: white;
 }
+footer {
+  grid-column: 1 / 7;
+  grid-row: 7 / 9;
+}
 
 
 .logo-box {
@@ -51,7 +55,7 @@ header {
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
   grid-template-rows: repeat(8, 1fr);
   grid-gap: 1em;
-  background-color:  #1C7ED6;
+  background-color:  #8396de;
   
 }
 /* title positioning */
