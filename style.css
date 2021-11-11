@@ -10,7 +10,7 @@ p {
 }
 
 h1, h2, h1, h3, h4 {
-  background-color: #1C7ED6;
+background-color: #83c4ff;
 }
 #content {
   max-width: 960px;
@@ -39,8 +39,7 @@ footer {
 
 
 .logo-box {
-  background-color: white;
-  border: 1px solid #a43312;
+ grid-column: auto;
 }
 
 
@@ -81,6 +80,7 @@ footer {
   grid-column: 4 / 7;
   grid-row: 3 / 4;
   font-size: 25px;
+ 
 }
 
 .home-headline-3 {
@@ -154,7 +154,7 @@ body{
 }
 nav{
   color: #0080db;
-  padding: 80px 50px 50px 75px;
+  padding: 80px 50px 0px 75px;
 }
 nav a {
   color: black;
@@ -165,6 +165,7 @@ nav ul {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(6em, 1fr));
   margin: 0;
+  background-color: #83c4ff;
   
 }
 
