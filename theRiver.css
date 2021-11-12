@@ -40,3 +40,19 @@ nav a:hover {
   color: #E7C24F;
   background-color: #396E94;
 }
+
+header {
+  align-items: center;
+  display: grid;
+  grid-template-columns: 110px auto;
+  background-color: #ffd97a;
+}
+footer {
+  grid-column: 1 / 7;
+  grid-row: 7 / 9;
+}
+
+
+.logo-box {
+ grid-column: auto;
+}
