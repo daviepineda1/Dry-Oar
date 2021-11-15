@@ -48,24 +48,6 @@ header {
   background-color: #ffd97a;
 }
 
-/ * This is placement for the Footer */
-
-
-.footer {
- display: grid;
- grid-template-columns: 1fr 1fr;
- grid-template-rows: 1fr;
- grid-gap: 1em;
- background-color: #83c4ff;
-}
-
-/ * This is placement for the Social Icons * / 
-
-.social-container {
-  margin: 3px 3px 3px 100px;
-  padding: 2px 2px 2px 2px;
-}
-
 
 .logo-box {
  grid-column: auto;
@@ -159,6 +141,25 @@ header {
 .paragraph-river-2 {
   grid-column: 3;
   grid-row: 5;
+}
+
+
+
+/ * This is placement for the Footer */
+
+.footer {
+ display: grid;
+ grid-template-columns: 1fr 1fr;
+ grid-template-rows: 1fr;
+ grid-gap: 1em;
+ background-color: #83c4ff;
+}
+
+/ * This is placement for the Social Icons * / 
+
+.social-container {
+  margin: 3px 3px 3px 100px;
+  padding: 2px 2px 2px 2px;
 }
 
 
