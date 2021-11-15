@@ -50,17 +50,18 @@ header {
 
 / * This is placement for the Footer */
 .footer {
-  display: grid;
-  grid-template-columns: repeat(6, 1fr);
-  grid-gap: 1em;
-  background-color: #ffffff;
-  grid-template-rows: repeat(2, 1fr);
+ display: grid;
+ grid-template-columns: 1fr 1fr;
+ grid-template-rows: 1fr;
+ grid-gap: 1em;
+ background-color: #83c4ff;
 }
 
 / * This is placement for the Social Icons * / 
 
 .social-container {
-  
+  margin: 3px 3px 3px 100px;
+  padding: 2px 2px 2px 2px;
 }
 
 
