@@ -49,7 +49,7 @@ header {
 }
 
 / * This is placement for the Footer */
-.footer-header {
+.footer {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
   grid-gap: 1em;
