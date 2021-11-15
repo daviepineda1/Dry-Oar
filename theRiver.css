@@ -147,7 +147,7 @@ header {
 
 / * This is placement for the Footer */
 
-footer {
+.footer {
  display: grid;
  grid-template-columns: 1fr 1fr;
  grid-template-rows: 1fr;
@@ -161,7 +161,5 @@ footer {
   margin: 3px 3px 3px 100px;
   padding: 2px 2px 2px 2px;
 }
-
-
 
 
