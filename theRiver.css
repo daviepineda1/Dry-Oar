@@ -57,6 +57,12 @@ header {
   grid-template-rows: repeat(2, 1fr);
 }
 
+/ * This is placement for the Social Icons * / 
+
+.social-container {
+  
+}
+
 
 .logo-box {
  grid-column: auto;
